@@ -1,0 +1,2 @@
+# LeetCode_Minimum_Number_Game
+LeetCode_Minimum_Number_Game
